@@ -13,8 +13,7 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;
 
 *** 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunggyujin&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=sunggyujin&show_icons=true&theme=radical" width="50%">
 
 <!--
 **SungGyuJin/SungGyuJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
